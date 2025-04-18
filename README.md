@@ -1,8 +1,11 @@
 # LightSelector
 
 /lightmode toggle
+
 /lightmode save
+
 /lightmode on
+
 /lightmode off
 
 How to build
