@@ -1,9 +1,9 @@
 # LightSelector
 
-/lightmode toggle	Enter/exit light selection mode
-/lightmode save	Save selected lights (exits toggle mode)
-/lightmode on	Turn ON all saved lights
-/lightmode off	Turn OFF all saved lights
+/lightmode toggle	Selection mode
+/lightmode save	Save
+/lightmode on	Turn ON
+/lightmode off	Turn OFF
 
 How to build
 
