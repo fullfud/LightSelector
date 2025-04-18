@@ -1,0 +1,8 @@
+name: LightSelector
+main: me.yourname.lightselector.LightSelector
+version: 1.0
+api-version: 1.20
+commands:
+  lightmode:
+    description: Control light selection
+    usage: /lightmode [save|toggle|on|off]
